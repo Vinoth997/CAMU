@@ -1,0 +1,7 @@
+.settings
+log4j2
+target
+.classpath
+.project
+test-output
+report
